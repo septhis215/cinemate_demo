@@ -1,0 +1,18 @@
+.credits-container {
+    background-color: rgb(0, 0, 0, 0.5);
+    margin-top: 50px;
+}
+
+.credits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+    opacity: 70%;
+}
+
+.credits h3,
+.credits p {
+    padding: 0 15px 0 30px;
+    color: #eee;
+}
