@@ -1,11 +1,3 @@
-window.onload = function() {
-    var loadingIcon = document.querySelector(".loading-container");
-    loadingIcon.classList.add('hide-loader');
-    setTimeout(function() {
-        loadingIcon.style.display = "none";
-    }, 500);
-}
-
 // Search query error response
 const searchForm = document.getElementById('search-form');
 const searchInput = document.getElementById('search-input');
