@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-p35#_!8-cz-f%5yp5n9z+!1ulj-^mv014%9e*#20bjzpchi_q-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cine-mate-787344839ff8.herokuapp.com']
 
 
 # Application definition
